@@ -2050,7 +2050,7 @@
             "name": "[VSCODE-CUSTOM] HTML Entity Name Tag",
             "scope": "entity.name.tag.html",
             "settings": {
-                "foreground": "#6495EE"
+                "foreground": "#7CAFC2"
             }
         }
     ],
