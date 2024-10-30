@@ -1870,13 +1870,6 @@
             }
         },
         {
-            "name": "[VSCODE-CUSTOM] Markdown Raw Block",
-            "scope": "markup.raw.block.markdown",
-            "settings": {
-                "foreground": "#ABB2BF"
-            }
-        },
-        {
             "name": "[VSCODE-CUSTOM] Shell Variables Punctuation Definition",
             "scope": "punctuation.definition.variable.shell",
             "settings": {
@@ -1926,17 +1919,66 @@
             }
         },
         {
+            "name": "[VSCODE-CUSTOM] Ruby Punctuation Separator Variable",
+            "scope": "punctuation.separator.variable.ruby",
+            "settings": {
+                "foreground": "#ABB2BF"
+            }
+        },
+        {
+            "name": "[VSCODE-CUSTOM] Ruby Other Constant Variable",
+            "scope": "variable.other.constant.ruby",
+            "settings": {
+                "foreground": "#D19A66"
+            }
+        },
+        {
+            "name": "[VSCODE-CUSTOM] Ruby Keyword Operator Other",
+            "scope": "keyword.operator.other.ruby",
+            "settings": {
+                "foreground": "#98C379"
+            }
+        },
+        {
+            "name": "[VSCODE-CUSTOM] PHP Punctuation Variable Definition",
+            "scope": "punctuation.definition.variable.php",
+            "settings": {
+                "foreground": "#ABB2BF"
+            }
+        },
+        {
+            "name": "[VSCODE-CUSTOM] PHP Meta Class",
+            "scope": "meta.class.php",
+            "settings": {
+                "foreground": "#ABB2BF"
+            }
+        },
+        {
+            "name": "[VSCODE-CUSTOM] HTML Entity Name Tag",
+            "scope": "entity.name.tag.html",
+            "settings": {
+                "foreground": "#7CAFC2"
+            }
+        },
+        {
+            "name": "[VSCODE-CUSTOM] Markdown Raw Block",
+            "scope": "markup.raw.block.markdown",
+            "settings": {
+                "foreground": "#ABB2BF"
+            }
+        },
+        {
             "name": "[VSCODE-CUSTOM] Markdown headings",
             "scope": "entity.name.section.markdown",
             "settings": {
-                "foreground": "#ABB2BF"
+                "foreground": "#E06C75"
             }
         },
         {
             "name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
             "scope": "punctuation.definition.heading.markdown",
             "settings": {
-                "foreground": "#ABB2BF"
+                "foreground": "#E06C75"
             }
         },
         {
@@ -1964,7 +2006,7 @@
             "name": "[VSCODE-CUSTOM] Markdown List Punctuation Definition",
             "scope": "beginning.punctuation.definition.list.markdown",
             "settings": {
-                "foreground": "#ABB2BF"
+                "foreground": "#E06C75"
             }
         },
         {
@@ -2011,48 +2053,6 @@
             ],
             "settings": {
                 "foreground": "#61AFEF"
-            }
-        },
-        {
-            "name": "[VSCODE-CUSTOM] Ruby Punctuation Separator Variable",
-            "scope": "punctuation.separator.variable.ruby",
-            "settings": {
-                "foreground": "#ABB2BF"
-            }
-        },
-        {
-            "name": "[VSCODE-CUSTOM] Ruby Other Constant Variable",
-            "scope": "variable.other.constant.ruby",
-            "settings": {
-                "foreground": "#D19A66"
-            }
-        },
-        {
-            "name": "[VSCODE-CUSTOM] Ruby Keyword Operator Other",
-            "scope": "keyword.operator.other.ruby",
-            "settings": {
-                "foreground": "#98C379"
-            }
-        },
-        {
-            "name": "[VSCODE-CUSTOM] PHP Punctuation Variable Definition",
-            "scope": "punctuation.definition.variable.php",
-            "settings": {
-                "foreground": "#ABB2BF"
-            }
-        },
-        {
-            "name": "[VSCODE-CUSTOM] PHP Meta Class",
-            "scope": "meta.class.php",
-            "settings": {
-                "foreground": "#ABB2BF"
-            }
-        },
-        {
-            "name": "[VSCODE-CUSTOM] HTML Entity Name Tag",
-            "scope": "entity.name.tag.html",
-            "settings": {
-                "foreground": "#7CAFC2"
             }
         }
     ],
