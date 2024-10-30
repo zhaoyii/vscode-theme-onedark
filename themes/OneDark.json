@@ -20,7 +20,7 @@
         "editor.foreground": "#ABB2BF",
         "editor.lineHighlightBackground": "#99BBFF0A",
         "editor.selectionBackground": "#3E4451",
-        "editorCursor.foreground": "#528BFF",
+        "editorCursor.foreground": "default",
         "editor.findMatchHighlightBackground": "#528BFF3D",
         "editorGroup.background": "#21252B",
         "editorGroup.border": "#181A1F",
