@@ -1870,6 +1870,13 @@
             }
         },
         {
+            "name": "[VSCODE-CUSTOM] Rust self Self",
+            "scope": "variable.language.self.rust",
+            "settings": {
+                "foreground": "#C678DD"
+            }
+        },
+        {
             "name": "[VSCODE-CUSTOM] Shell Variables Punctuation Definition",
             "scope": "punctuation.definition.variable.shell",
             "settings": {
